@@ -47,9 +47,12 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 ## 🤔 Dúvidas?
 
 Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
-
-
-
+.
+.
+.
+.
+.
+.
 
 DESAFIO---------------------->
 
