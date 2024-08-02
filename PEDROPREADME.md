@@ -113,7 +113,7 @@ Selecionei o DATASET de dataset-1000-com-preco-promocional-e-renovacao-estoque
 2. Construir e Treinar
 No Sage Maker importei o Dataset e selecionei a coluna quantidade de Estoque para predict e no Model type selecionei o ID do produto column that uniquely identifies the items in your dataset eo Preço na coluna de valores eo Data Events no time stamps
 E coloquei no Standart 1-4 HOURS
-
+-
 Avg. wQL
 1.006
 MAPE
@@ -141,7 +141,7 @@ MASE
 
 4. Prever
 PREVEJO QUE  O 1013 VA CHEGAR A 0 PRIMEIRO QUE OS OUTROS EM ESTOQUE E QUE ELE E UM DOS NOSSOS PRODUTOS MAIS VENDIDOS
-
+E Prevejo que os produtos c entre um preço maior e Maior tem uma correlaçao dos preços maiores se sairem melhor eos preços menores ficarem mais relativos entre os piores resultados eos resultados neutros P10 E P50
 
 
 
